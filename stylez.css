@@ -1,0 +1,112 @@
+body {
+    background-color: #eff4fd;
+}
+
+.sai h1 {
+    color: black;
+    background-color: pink;
+    text-align: center;
+}
+
+.btn a {
+    background: #212121;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.cer1 h2 {
+    color: white;
+    background-color: navy;
+    width: 40%;
+    text-align: center;
+}
+
+.cer1 p {
+    color: #555;
+    font-size: 22px;
+}
+
+.cer1 a {
+    background: #212121;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.cer2 h2 {
+    color: white;
+    background-color: navy;
+    width: 40%;
+    text-align: center;
+}
+
+.cer2 p {
+    color: #555;
+    font-size: 22px;
+}
+
+.cer2 a {
+    background: #212121;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.cer3 h2 {
+    color: white;
+    background-color: navy;
+    width: 40%;
+    text-align: center;
+}
+
+.cer3 p {
+    color: #555;
+    font-size: 22px;
+}
+
+.cer3 a {
+    background: #212121;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.cer4 h2 {
+    color: white;
+    background-color: navy;
+    width: 40%;
+    text-align: center;
+}
+
+.cer4 p {
+    color: #555;
+    font-size: 22px;
+}
+
+.cer4 a {
+    background: #212121;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 10px 0;
+    border-radius: 5px;
+}

@@ -1,0 +1,50 @@
+body {
+    background-color: #eff4fd;
+}
+
+.gre h2 {
+    color: white;
+    background-color: navy;
+    width: 50%;
+    text-align: center;
+}
+
+.gre p {
+    color: #555;
+    font-size: 22px;
+}
+
+.int h2 {
+    color: white;
+    background-color: navy;
+    width: 50%;
+    text-align: center;
+}
+
+.int p {
+    color: #555;
+    font-size: 22px;
+}
+
+.bt h2 {
+    color: white;
+    background-color: navy;
+    width: 50%;
+    text-align: center;
+}
+
+.bt p {
+    color: #555;
+    font-size: 22px;
+}
+
+.bt a {
+    background: #212121;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+    display: inline-block;
+    margin: 10px 0;
+    border-radius: 5px;
+}
